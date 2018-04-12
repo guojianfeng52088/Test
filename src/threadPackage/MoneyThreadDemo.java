@@ -10,7 +10,7 @@ class Money extends Thread{
 	
 	@Override
 	public void run() {
-	
+	  
 		while (true) {
 			synchronized ("锁") {
 				if(allMoney >= 100){

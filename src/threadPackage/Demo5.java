@@ -25,7 +25,7 @@ public class Demo5 extends Thread {
 	}
 	
 	
-	
+	  
 	
 	public static void main(String[] args) {
 		//创建一个线程对象
